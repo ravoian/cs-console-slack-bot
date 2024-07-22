@@ -1,6 +1,6 @@
 # C# Slack Message Bot
 
-Sample C# console project for posting to using a designated Slack channel using the Slack App API
+Sample C# console project for posting to a designated Slack channel using the Slack App API
 
 ## For running locally:
 
@@ -10,7 +10,9 @@ Sample C# console project for posting to using a designated Slack channel using 
 
 3. Open `SlackMessageBot.csproj`
 
-4. Run project
+4. Replace required values for oauth token and channel ID
+
+5. Run project
 
 ## Additional online resources:
 
